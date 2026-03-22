@@ -178,13 +178,13 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 <img src="https://img.shields.io/github/stars/saikumarerumalla?style=for-the-badge&logo=github&label=Stars"/>
 
-<img src="https://img.shields.io/github/repos/saikumarerumalla?style=for-the-badge&logo=github&label=Repositories"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=for-the-badge&logo=github&link=https://github.com/saikumarerumalla?tab=repositories"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saikumarerumalla&label=Profile%20Views&color=blueviolet&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=saikumarerumalla&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
