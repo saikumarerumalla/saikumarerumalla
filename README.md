@@ -156,15 +156,7 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saikumarerumalla&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # 🤝 Let's Connect!
 
@@ -204,10 +196,4 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 </p>
 
----
 
-<p align="center">
-
-💻 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</p>
