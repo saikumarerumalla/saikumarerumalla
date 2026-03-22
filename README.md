@@ -31,33 +31,19 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming Languages : Java • Python • C++ • JavaScript • TypeScript • SQL
 
-Java • Python • C++ • JavaScript • TypeScript • SQL
+### ⚙️ Backend & Frameworks : Spring Boot • Microservices • REST APIs • GraphQL • Angular
 
-### ⚙️ Backend & Frameworks
+### ☁️ Cloud & DevOps : AWS • Kubernetes • Docker • OpenStack • GitHub Actions • Jenkins
 
-Spring Boot • Microservices • REST APIs • GraphQL • Angular
+### 📡 Messaging & Streaming : Kafka • RabbitMQ • WebSockets • Socket.io
 
-### ☁️ Cloud & DevOps
+### 🗄️ Databases : PostgreSQL • MySQL • MongoDB • Redis • MariaDB • Elasticsearch
 
-AWS • Kubernetes • Docker • OpenStack • GitHub Actions • Jenkins
+### 📊 Data & ML : NumPy • Pandas • Matplotlib • Scikit-Learn
 
-### 📡 Messaging & Streaming
-
-Kafka • RabbitMQ • WebSockets • Socket.io
-
-### 🗄️ Databases
-
-PostgreSQL • MySQL • MongoDB • Redis • MariaDB • Elasticsearch
-
-### 📊 Data & ML
-
-NumPy • Pandas • Matplotlib • Scikit-Learn
-
-### 🔧 Tools
-
-Git • Postman • Swagger • Maven • Nginx • Tomcat • Prometheus
+### 🔧 Tools : Git • Postman • Swagger • Maven • Nginx • Tomcat • Prometheus
 
 ---
 
@@ -132,16 +118,6 @@ Research study analyzing long-term wetland dynamics across South Asia.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarerumalla&theme=github-dark" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saikumarerumalla&theme=radical&no-frame=true&margin-w=10" />
 
 </p>
 
