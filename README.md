@@ -1,21 +1,151 @@
-# 💫 About Me:
-I'm a passionate software developer who loves building innovative solutions and exploring cutting-edge technologies. With experience in web development, I enjoy tackling challenging problems and creating impactful projects.<br><br>🔭 I'm currently working on Web Development and cloud-native applications<br>🌱 I'm currently learning Advanced AWS Services, Kubernetes, System Design and Microservices Architecture<br>👯 I'm looking to collaborate on open source projects and innovative web applications<br>💬 Ask me about Full Stack Development, Cloud Computing, or DevOps<br>📫 How to reach me: Connect with me on my social platforms below!<br>⚡ Fun fact: I love turning complex problems into simple, elegant solutions
+<h1 align="center">Hi 👋, I'm Sai Kumar Erumalla</h1>
+<h3 align="center">Full Stack Software Engineer | Distributed Systems | Cloud Native</h3>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sai_kumar.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumar-erumalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikumar.erumalla@gmail.com) 
+# 💫 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saikumarerumalla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saikumarerumalla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarerumalla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a passionate software developer who loves building innovative solutions and exploring cutting-edge technologies. With experience in web development and backend systems, I enjoy tackling challenging problems and creating impactful projects.
 
-## 🏆 GitHub Trophies
+🔭 I'm currently working on **Web Development and cloud-native applications**  
+🌱 I'm currently learning **Advanced AWS Services, Kubernetes, System Design, and Microservices Architecture**  
+👯 I'm looking to collaborate on **open source projects and innovative web applications**  
+💬 Ask me about **Full Stack Development, Cloud Computing, Backend Engineering, or DevOps**  
+⚡ Fun fact: I love turning complex problems into simple, elegant solutions
+
+---
+
+# 🚀 What I'm Currently Doing
+
+🔥 Building scalable backend systems  
+🚀 Exploring distributed system patterns  
+☁️ Working with cloud-native infrastructure  
+📚 Learning advanced system design concepts  
+💡 Experimenting with AI-powered applications
+
+---
+
+# 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sai_kumar.__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumar-erumalla)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikumar.erumalla@gmail.com)
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+Java • Python • C++ • JavaScript • TypeScript • SQL
+
+## ⚙️ Backend & Frameworks
+Spring Boot • Microservices • REST APIs • GraphQL • Angular
+
+## ☁️ Cloud & DevOps
+AWS • Kubernetes • Docker • OpenStack • GitHub Actions • Jenkins
+
+## 📡 Messaging & Streaming
+Kafka • RabbitMQ • WebSockets • Socket.io
+
+## 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Redis • MariaDB • Elasticsearch
+
+## 📊 Data & ML
+NumPy • Pandas • Matplotlib • Scikit-Learn
+
+## 🔧 Tools
+Git • Postman • Swagger • Maven • Nginx • Tomcat • Prometheus
+
+---
+
+# 🌟 Featured Projects & Research
+
+### 🧠 TheraBuddy – AI Mental Health Companion
+
+An AI-powered assistant designed to support users with mental wellness, emotional reflection, and guided conversation.
+
+**Tech Stack**
+
+Python • LLMs • Backend APIs • Prompt Engineering
+
+**Highlights**
+
+- Conversational AI for emotional support  
+- AI-driven interaction workflows  
+- Scalable backend architecture  
+
+---
+
+### ✍️ Blog Generation Agent
+
+An AI-powered agent that automatically generates structured blog posts from prompts or topics.
+
+**Tech Stack**
+
+Python • LLMs • Prompt Engineering • API Integration
+
+**Features**
+
+- Automated blog content generation  
+- Topic-based structured writing  
+- Supports long-form content creation  
+
+---
+
+### 📑 Climate Vulnerability of Ramsar Wetlands (Springer Publication)
+
+Research publication analyzing the climate vulnerability of Ramsar wetlands using **CMIP6 climate projections and satellite data**.
+
+🔗 https://www.researchgate.net/publication/377237584_Assessing_Climate_Vulnerability_of_Ramsar_Wetlands_through_CMIP6_Projections
+
+**Highlights**
+
+- Analysis of Ramsar sites using satellite imagery  
+- Machine learning regression models for climate analysis  
+- Wetland vulnerability assessment under climate change scenarios  
+
+---
+
+### 🌍 Spatiotemporal Analysis of Ramsar Wetlands (Elsevier / ScienceDirect)
+
+Research study analyzing long-term wetland dynamics and climate impacts across South Asia.
+
+🔗 https://www.sciencedirect.com/science/article/abs/pii/S0160791X24002719
+
+**Highlights**
+
+- Landsat satellite imagery analysis (1991–2020)  
+- Wetland inundation mapping with high accuracy  
+- Climate impact assessment on wetland ecosystems  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=saikumarerumalla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=saikumarerumalla&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarerumalla&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 📈 Contribution Graph
+
+[![Sai Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saikumarerumalla&theme=github-dark)](https://github.com/saikumarerumalla)
+
+---
+
+# 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=saikumarerumalla&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saikumarerumalla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💡 Developer Quote
+
+> “First solve the problem. Then write the code.” – John Johnson
+
+---
+
+![](https://visitcount.itsvg.in/api?id=saikumarerumalla&icon=0&color=0)
