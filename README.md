@@ -1,49 +1,92 @@
-<h1 align="center">Hi 👋, I'm Sai Kumar Erumalla</h1>
-<h3 align="center">Full Stack Software Engineer | Distributed Systems | Cloud Native</h3>
+<!-- Animated Header -->
+
+<h1 align="center">
+Hi 👋, I'm Sai Kumar Erumalla
+</h1>
 
 <p align="center">
-Passionate about building scalable systems, cloud-native applications, and solving complex engineering problems.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Engineer;Distributed+Systems+Enthusiast;Cloud+Native+Developer" />
+</a>
+</p>
+
+<p align="center">
+Passionate about building scalable systems, distributed architectures, and cloud-native applications.
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm a passionate software developer who loves building innovative solutions and exploring cutting-edge technologies. With experience in backend systems and web development, I enjoy tackling challenging problems and creating impactful projects.
+I'm a passionate **Software Engineer** who enjoys building scalable backend systems and solving complex engineering problems.
 
-🔭 I'm currently working on **Web Development and cloud-native applications**
-🌱 I'm currently learning **Advanced AWS Services, Kubernetes, System Design and Microservices Architecture**
-👯 I'm looking to collaborate on **open source projects and innovative web applications**
-💬 Ask me about **Full Stack Development, Cloud Computing, Backend Engineering or DevOps**
-⚡ Fun fact: I love turning complex problems into simple, elegant solutions
-
----
-
-# 🚀 What I'm Currently Doing
-
-🔥 Building scalable backend systems
-🚀 Exploring distributed system patterns
-☁️ Working with cloud-native infrastructure
-📚 Learning advanced system design concepts
-💡 Experimenting with AI-powered applications
+🔭 Currently working on **Web Development and Cloud Native Applications**
+🌱 Learning **System Design, Kubernetes, and Advanced AWS Services**
+👯 Looking to collaborate on **Open Source Projects**
+💬 Ask me about **Java, Backend Engineering, System Design, Cloud or DevOps**
+⚡ Fun fact: I love turning complex problems into simple elegant systems.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages : Java • Python • C++ • JavaScript • TypeScript • SQL
+### 💻 Programming Languages
 
-### ⚙️ Backend & Frameworks : Spring Boot • Microservices • REST APIs • GraphQL • Angular
+<p>
 
-### ☁️ Cloud & DevOps : AWS • Kubernetes • Docker • OpenStack • GitHub Actions • Jenkins
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts"/>
 
-### 📡 Messaging & Streaming : Kafka • RabbitMQ • WebSockets • Socket.io
+</p>
 
-### 🗄️ Databases : PostgreSQL • MySQL • MongoDB • Redis • MariaDB • Elasticsearch
+---
 
-### 📊 Data & ML : NumPy • Pandas • Matplotlib • Scikit-Learn
+### 🚀 Frameworks & Libraries
 
-### 🔧 Tools : Git • Postman • Swagger • Maven • Nginx • Tomcat • Prometheus
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,angular,nodejs"/>
+
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions"/>
+
+</p>
+
+---
+
+### 📡 Messaging & Streaming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq"/>
+
+</p>
+
+---
+
+### 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch"/>
+
+</p>
+
+---
+
+### 🔧 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,nginx"/>
+
+</p>
 
 ---
 
@@ -53,14 +96,9 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 AI-powered assistant designed to support users with mental wellness and guided conversations.
 
-**Tech Stack**
+**Tech**
+
 Python • LLMs • Backend APIs • Prompt Engineering
-
-**Highlights**
-
-• Conversational AI support
-• AI-driven interaction workflows
-• Scalable backend architecture
 
 ---
 
@@ -68,14 +106,9 @@ Python • LLMs • Backend APIs • Prompt Engineering
 
 AI-powered system that automatically generates structured blog posts from prompts.
 
-**Tech Stack**
-Python • LLMs • Prompt Engineering • APIs
+**Tech**
 
-**Features**
-
-• Automated blog writing
-• Topic-based content generation
-• Long-form blog creation
+Python • LLMs • AI Agents • APIs
 
 ---
 
@@ -99,15 +132,15 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saikumarerumalla&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=saikumarerumalla&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=saikumarerumalla&theme=dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=saikumarerumalla&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarerumalla&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarerumalla&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -117,7 +150,17 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarerumalla&theme=github-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikumarerumalla&theme=tokyo-night" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saikumarerumalla&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -128,19 +171,15 @@ Research study analyzing long-term wetland dynamics across South Asia.
 <p align="center">
 
 <a href="https://github.com/saikumarerumalla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://linkedin.com/in/saikumar-erumalla">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:saikumar.erumalla@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
@@ -151,23 +190,17 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/saikumarerumalla?style=for-the-badge&logo=github&label=Followers">
+<img src="https://img.shields.io/github/followers/saikumarerumalla?style=for-the-badge&logo=github&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/saikumarerumalla?style=for-the-badge&logo=github&label=Stars">
+<img src="https://img.shields.io/github/stars/saikumarerumalla?style=for-the-badge&logo=github&label=Stars"/>
 
-<img src="https://img.shields.io/badge/Repositories-View%20On%20GitHub-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/repos/saikumarerumalla?style=for-the-badge&logo=github&label=Repositories"/>
 
 </p>
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=saikumarerumalla&label=Profile%20Views&color=blueviolet&style=flat-square">
-
-</p>
-
-<p align="center">
-
-Backend Engineer • Distributed Systems • Cloud Native Enthusiast
 
 </p>
 
