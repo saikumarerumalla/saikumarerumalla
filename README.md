@@ -65,10 +65,9 @@ Git • Postman • Swagger • Maven • Nginx • Tomcat • Prometheus
 
 ### 🧠 TheraBuddy – AI Mental Health Companion
 
-AI-powered assistant designed to support users with mental wellness and guided conversation.
+AI-powered assistant designed to support users with mental wellness and guided conversations.
 
 **Tech Stack**
-
 Python • LLMs • Backend APIs • Prompt Engineering
 
 **Highlights**
@@ -84,7 +83,6 @@ Python • LLMs • Backend APIs • Prompt Engineering
 AI-powered system that automatically generates structured blog posts from prompts.
 
 **Tech Stack**
-
 Python • LLMs • Prompt Engineering • APIs
 
 **Features**
@@ -177,11 +175,17 @@ Research study analyzing long-term wetland dynamics across South Asia.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/followers/saikumarerumalla?style=for-the-badge&logo=github&label=Followers">
 
-<img src="https://img.shields.io/badge/Followers-View%20Profile-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/saikumarerumalla?style=for-the-badge&logo=github&label=Stars">
 
-<img src="https://img.shields.io/badge/Stars-GitHub%20Projects-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repositories-View%20On%20GitHub-blue?style=for-the-badge&logo=github">
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saikumarerumalla&label=Profile%20Views&color=blueviolet&style=flat-square">
 
 </p>
 
@@ -193,15 +197,8 @@ Backend Engineer • Distributed Systems • Cloud Native Enthusiast
 
 ---
 
-
 <p align="center">
 
-> “First solve the problem. Then write the code.”
-
-</p>
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=saikumarerumalla&icon=0&color=0">
+💻 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 </p>
